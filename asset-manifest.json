@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//jpringle.github.io/todoList/static/css/main.965438ce.chunk.css",
+    "main.js": "/https//jpringle.github.io/todoList/static/js/main.7e24d496.chunk.js",
+    "main.js.map": "/https//jpringle.github.io/todoList/static/js/main.7e24d496.chunk.js.map",
+    "runtime-main.js": "/https//jpringle.github.io/todoList/static/js/runtime-main.3d71c981.js",
+    "runtime-main.js.map": "/https//jpringle.github.io/todoList/static/js/runtime-main.3d71c981.js.map",
+    "static/js/2.8c093623.chunk.js": "/https//jpringle.github.io/todoList/static/js/2.8c093623.chunk.js",
+    "static/js/2.8c093623.chunk.js.map": "/https//jpringle.github.io/todoList/static/js/2.8c093623.chunk.js.map",
+    "static/js/3.1a2748b1.chunk.js": "/https//jpringle.github.io/todoList/static/js/3.1a2748b1.chunk.js",
+    "static/js/3.1a2748b1.chunk.js.map": "/https//jpringle.github.io/todoList/static/js/3.1a2748b1.chunk.js.map",
+    "index.html": "/https//jpringle.github.io/todoList/index.html",
+    "static/css/main.965438ce.chunk.css.map": "/https//jpringle.github.io/todoList/static/css/main.965438ce.chunk.css.map",
+    "static/js/2.8c093623.chunk.js.LICENSE.txt": "/https//jpringle.github.io/todoList/static/js/2.8c093623.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d71c981.js",
+    "static/js/2.8c093623.chunk.js",
+    "static/css/main.965438ce.chunk.css",
+    "static/js/main.7e24d496.chunk.js"
+  ]
+}
