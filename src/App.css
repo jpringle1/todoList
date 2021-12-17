@@ -1,0 +1,72 @@
+/*//////////////////todo list attempt 2*/
+.container{
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  justify-content: center; 
+}
+
+.item {
+  display:flex;
+  justify-content: space-between;
+  margin-left: 25%;
+  margin-right: 25%; 
+  padding-left: 10px;
+  border:solid rgb(37, 37, 37);
+}
+
+.task {
+  max-width: 70%;
+  word-wrap: break-word;
+}
+
+.test {
+  display: flex;
+}
+
+.remButton {
+  background-color: red;
+}
+
+#header{
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.completeButton{
+  background-color: green;
+}
+
+.inProgressButton {
+  background-color: orange;
+}
+
+.status{
+  align-self: center;
+  justify-content: space-around;
+  padding-left: 10px;  
+}
+
+.button{
+  display: flex;
+  height: inherit;
+  justify-content: center;
+  width: 75px;
+  align-items: center;
+  padding: 0px 10px 0px 10px;
+  font-size: 15px;
+}
+
+#inputs {
+  display:flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 20px 0px 20px 0px;
+}
+
+#addButton {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+}
